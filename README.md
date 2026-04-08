@@ -8,3 +8,5 @@ This project was created to practice Python basics, functions, user input, and s
 - Multiplication  
 - Division  
 - Revenue calculation (useful for basic finance)
+- Pourcentage
+- Currency converter 
